@@ -63,7 +63,7 @@ $(".movie").on("click", () => {
 
 // 링크 이동
 $("#button2").on("click", () => {
-  window.location.href = "../html/mindex.html";
+  window.location.href = "../html/index.html";
 });
 
 // 오디오버튼
