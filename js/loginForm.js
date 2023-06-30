@@ -31,7 +31,7 @@ $("#button3").on("click", () => {
 });
 //오디오 재생
 let music = new Audio(
-  "../img/배틀필드/mp4"
+  "../img/배틀필드.mp4"
 );
 function playMusic() {
   music.play();
